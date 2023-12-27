@@ -1,0 +1,2 @@
+Electronics[Product Id: A1000] [Product Name: TV] [Available Items: 5] [Price is: 500.0] [Category is: Electronics][Brand is: Samsung] [Warrenty Period is: 12]
+Clothing[Product Id: B009] [Product Name: Shirt] [Available Items: 20] [Price is: 1200.0] [Category is: Clothing] [Size is: 20] [Color is: White]
